@@ -1,0 +1,19 @@
+{
+  "name": "facilito_social",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.0",
+    "babel-preset-react": "^6.24.1",
+    "coffeescript": "1.12.7",
+    "create-react-class": "^15.6.2",
+    "formsy-material-ui": "^0.6.3",
+    "formsy-react": "^1.1.2",
+    "material-ui": "^0.20.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.7"
+  }
+}
